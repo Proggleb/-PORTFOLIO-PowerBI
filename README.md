@@ -1,2 +1,2 @@
 # PowerBI
-Power BI Portfolio Projects
+Power BI Projects
