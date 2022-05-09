@@ -1,2 +1,1 @@
-# PowerBI
 Power BI Projects
